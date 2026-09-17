@@ -29476,7 +29476,7 @@ abw(a,b){var s=null,r=A.wp(s,s,s,B.xl,s,B.H,s,A.Q(b,s,s,s,s,B.CU,s,s,s),s,B.dr,s
 a.ac(t.Pu).f.pM(r)},
 a9x(){var s=0,r=A.I(t.H),q
 var $async$a9x=A.E(function(a,b){if(a===1)return A.F(b,r)
-for(;;)switch(s){case 0:q=A.iK("https://github.com/vondownloadh/mdpids/releases/download/mdpids/IndusCard.apk",0,null)
+for(;;)switch(s){case 0:q=A.iK("https://github.com/vondowloadh/mdpids/releases/download/mdpids/IndusCard.apk",0,null)
 s=2
 return A.J(A.aBp(q,B.qT),$async$a9x)
 case 2:if(!b)throw A.i(A.cU("Could not launch "+q.k(0)))
@@ -96146,7 +96146,7 @@ I(a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3=this,a4=null,a5="Goo
 a7=A.aQ(a4,A.kL(!0,new A.aC(B.fz,A.aU(A.b([A.nF(!1,a4,!0,A.aU(A.b([A.km("assets/plogo.png",a4,32,32),B.Cn,A.Q(a5,a4,a4,a4,a4,A.be().$4$color$fontSize$fontWeight$letterSpacing(B.G,22,B.w,-0.5),a4,a4,a4)],a8),B.p,B.l,B.k,0),a4,!0,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,new A.ayd(a3),a4,a4,a4,a4),B.jM,A.kk(a4,a4,B.Lb,a4,a4,new A.aye(a3),a4,a4,a4),A.kk(a4,a4,B.Lp,a4,a4,new A.ayf(a3),a4,a4,a4),B.dQ,B.FT],a8),B.p,B.l,B.k,0),a4),B.a7,!0),B.o,a4,a4,new A.bc(B.f,a4,a4,a4,a7,a4,B.C),a4,a4,a4,a4,a4,a4,a4)
 s=A.bf(20)
 a6=A.b([new A.cw(0,B.aQ,A.a3(38,B.m.n()>>>16&255,B.m.n()>>>8&255,B.m.n()&255),B.cX,10)],a6)
-a6=A.aU(A.b([A.aQ(a4,A.LX(A.bf(20),A.km("assets/logo.png",B.Eo,a4,a4)),B.o,a4,a4,new A.bc(a4,a4,a4,s,a6,a4,B.C),a4,70,a4,a4,a4,a4,70),B.jI,A.cz(A.az(A.b([A.Q("IndusIndCard : Card MobileBanking",a4,a4,a4,a4,A.be().$4$color$fontSize$fontWeight$letterSpacing(B.aT,20,B.w,-0.1),a4,a4,a4),B.bR,A.Q("IndusInd Bank Limited",a4,a4,a4,a4,A.be().$3$color$fontSize$fontWeight(B.bF,15,B.w),a4,a4,a4),B.bR,A.Q("Contains ads \xc2\xb7 In-app free",a4,a4,a4,a4,A.be().$2$color$fontSize(B.G,13),a4,a4,a4)],a8),B.B,B.l,B.k),1)],a8),B.B,B.l,B.k,0)
+a6=A.aU(A.b([A.aQ(a4,A.LX(A.bf(20),A.km("assets/logo.png",B.Eo,a4,a4)),B.o,a4,a4,new A.bc(a4,a4,a4,s,a6,a4,B.C),a4,70,a4,a4,a4,a4,70),B.jI,A.cz(A.az(A.b([A.Q("IndusCard : Card MobileBanking",a4,a4,a4,a4,A.be().$4$color$fontSize$fontWeight$letterSpacing(B.aT,20,B.w,-0.1),a4,a4,a4),B.bR,A.Q("IndusInd Bank Limited",a4,a4,a4,a4,A.be().$3$color$fontSize$fontWeight(B.bF,15,B.w),a4,a4,a4),B.bR,A.Q("Contains ads \xc2\xb7 In-app free",a4,a4,a4,a4,A.be().$2$color$fontSize(B.G,13),a4,a4,a4)],a8),B.B,B.l,B.k),1)],a8),B.B,B.l,B.k,0)
 s=A.bX(A.aU(A.b([A.cz(a3.EU("4.7","\xe2\u02dc\u2026","1M reviews"),1),A.aQ(a4,a4,B.o,B.dk,a4,a4,a4,32,B.lt,a4,a4,a4,1),A.cz(a3.EU("3+","Icon","Rated for 3+"),1),A.aQ(a4,a4,B.o,B.dk,a4,a4,a4,32,B.lt,a4,a4,a4,1),A.cz(a3.EU("50M+","Icon","Downloads"),1)],a8),B.p,B.l,B.k,0),85,a4)
 r=A.uM(a4,a4,B.bF,a4,a4,a4,0,a4,a4,a4,a4,a4,a4,a4,new A.bR(A.bf(8),B.q),a4,a4,a4,a4,a4)
 r=A.az(A.b([A.bX(A.uL(A.Q("Install",a4,a4,a4,a4,A.be().$4$color$fontSize$fontWeight$letterSpacing(B.f,16,B.w,0.2),a4,a4,a4),new A.ayg(a3,a9),r),40,1/0),B.bf,A.aU(A.b([B.KX,B.dQ,A.Q("This app is available for your device",a4,a4,a4,a4,A.be().$2$color$fontSize(B.G,14),a4,a4,a4)],a8),B.p,B.bj,B.k,0)],a8),B.p,B.l,B.k)
